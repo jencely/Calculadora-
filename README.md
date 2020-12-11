@@ -6,10 +6,22 @@ C#
 
 
 
+
+
+
+
+
+
 Opcion para realizar calculos
+
 Para sumar [+]
+
 Para restar [-]
+
 Para multiplicar [*]
+
 Para dividir [/]
+
 Para potencia [^]
+
 Para raiz [7]
